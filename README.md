@@ -10,4 +10,4 @@ There are two algorithms which are at the forefront of MAB- epsilon greedy and U
 Details of Project
 
 The project file contains a C# script called 'Agent' which contains the core logic of the MAB and some initializations of game objects. A simplified bandit with 3 slots(3 cubes) with varying probabilities have been created to test whether the bandit exploits the current slot(cube) or explores a new slot(cube) based on the rewards at that particular state. The entire code is in C# and provides a template for future development work for anyone who would like to use this.
-The simplicity of the project is in the fact that the entire source is in C# and is extremely lucid to understand.
+The template source code can be used as a starting point for Thompson modelling,and other optimized MAB approaches.
